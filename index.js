@@ -77,14 +77,3 @@ async function deleteTodo() {
         console.log("No ToDo item for delete. ");
     }
 }
-//    if (answers1.menuOPtt === 'Exit'){
-//         loop = false;
-//         console.log("Exit Program");
-//         console.log("   -Thank You ! ")
-//         // break;
-//     } else if (answers1.menuOPtt === 'Delete ToDo item'){
-//         await deleteTodo();
-//         // break;
-//     } else{
-//         await addTodo();
-//     }
